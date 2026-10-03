@@ -1,10 +1,14 @@
 <div align="center">
 
-# 🐒 ChimpCode
+# The Society of Primates Programmers
 
-### The Society of Primates Programmers
+<img src="./assets/banner.png" alt="ChimpCode Banner">
 
-**Learn together. Build together. Share knowledge.**
+# ChimpCode
+
+**Learn. Build. Share.**
+
+</br>
 
 [🇺🇸 English](#-english) · [🇧🇷 Português](#-português)
 
